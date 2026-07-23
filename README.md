@@ -1,6 +1,6 @@
 # Echoscape
 
-Echoscape is an interactive map project focused on Iran and Pakistan that explores sound, music, and audio environments from the region. It invites users to listen to both human-made and AI-generated audio, encouraging reflection on how place, memory, and technology shape cultural perception. The goal is to create an engaging and visually clear interactive experience that reflects the region’s sonic identity and makes the biases and assumptions of AI visible.
+Echoscape is an interactive map project focused on Iran and Pakistan that explores sound, music, and audio environments from the region. It invites users to listen to both human-made and AI-generated audio, encouraging reflection on how place, memory, and technology shape cultural perception. The project focuses on five selected locations in each country to explore regional diversity instead of presenting a country as a single cultural identity.
 
 ## Project Overview
 This project uses an interactive map to present sonic stories from the region. By comparing different kinds of audio, Echoscape highlights how AI can influence the way people understand and represent culture.
